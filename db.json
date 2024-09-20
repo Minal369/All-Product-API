@@ -26,7 +26,9 @@
       "offer": "off 30%",
       "price": 129,
       "rating": "1",
-      "color": "Pink"
+      "color": "Pink",
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 2,
@@ -54,7 +56,9 @@
       "offer": "off 30%",
       "price": 129,
       "rating": "5",
-      "color": "Pink"
+      "color": "Pink",
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 3,
@@ -82,7 +86,9 @@
       "offer": "off 30%",
       "price": 129,
       "rating": "4",
-      "color": "Pink"
+      "color": "Pink",
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 4,
@@ -110,7 +116,9 @@
       "offer": "off 30%",
       "price": 129,
       "rating": "",
-      "color": "Purple"
+      "color": "Purple",
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 5,
@@ -138,7 +146,9 @@
       "offer": "off 30%",
       "price": 129,
       "rating": "",
-      "color": "Purple"
+      "color": "Purple",
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 6,
@@ -166,7 +176,9 @@
       "offer": "off 30%",
       "price": 129,
       "rating": "",
-      "color": "Purple"
+      "color": "Purple",
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 7,
@@ -194,7 +206,9 @@
       "offer": "off 30%",
       "price": 129,
       "rating": "",
-      "color": "brown"
+      "color": "brown",
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 8,
@@ -222,7 +236,9 @@
       "offer": "off 30%",
       "price": 129,
       "rating": "2",
-      "color": "brown"
+      "color": "brown",
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 9,
@@ -250,7 +266,9 @@
       "offer": "off 30%",
       "price": 129,
       "rating": "4",
-      "color": "nude"
+      "color": "nude",
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 10,
@@ -278,7 +296,9 @@
       "offer": "off 30%",
       "price": 129,
       "rating": "3",
-      "color": "nude"
+      "color": "nude",
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 11,
@@ -306,7 +326,9 @@
       "offer": "off 30%",
       "price": 129,
       "rating": "",
-      "color": "nude"
+      "color": "nude",
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 12,
@@ -334,7 +356,9 @@
       "offer": "off 30%",
       "price": 129,
       "rating": "1",
-      "color": "nude"
+      "color": "nude",
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 13,
@@ -362,7 +386,9 @@
       "offer": "off 30%",
       "price": 129,
       "rating": "",
-      "color": "Red"
+      "color": "Red",
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 14,
@@ -390,7 +416,9 @@
       "offer": "off 30%",
       "price": 129,
       "rating": "3",
-      "color": "red"
+      "color": "red",
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 15,
@@ -418,7 +446,9 @@
       "offer": "off 30%",
       "price": 129,
       "rating": "",
-      "color": "red"
+      "color": "red",
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 16,
@@ -446,7 +476,9 @@
       "offer": "off 30%",
       "price": 129,
       "rating": "",
-      "color": "red"
+      "color": "red",
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 17,
@@ -474,7 +506,9 @@
       "offer": "off 30%",
       "price": 129,
       "rating": "",
-      "color": "blue"
+      "color": "blue",
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 18,
@@ -502,7 +536,9 @@
       "offer": "off 30%",
       "price": 129,
       "rating": "",
-      "color": "blue"
+      "color": "blue",
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 19,
@@ -530,7 +566,9 @@
       "offer": "off 30%",
       "price": 129,
       "rating": "",
-      "color": "blue"
+      "color": "blue",
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 20,
@@ -558,7 +596,9 @@
       "offer": "off 30%",
       "price": 129,
       "rating": "",
-      "color": "orange"
+      "color": "orange",
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 21,
@@ -582,11 +622,13 @@
       "Productdetails": "Ingredients",
       "productdetails": " All SUGAR POP products are 100% vegetarian, cruelty-free and paraben-free. Ethyl Acetate, Butyl Acetate, Nitrocellulose, Phthalic Anhydride/Trimellitic Anhydride/Glycols Copolymer, Isopropyl Alcohol, Dipropylene Glycol Dibenzoate, N-Butyl Alcohol, Silica, Acrylates Copolymer, Acetyl Tributyl Citrate, Alcohol Denat, Approved Colours",
       "MRP": "MRP:",
-      "mrp":  129,
+      "mrp": 129,
       "offer": "off 30%",
-      "price":  80,
+      "price": 80,
       "rating": "2.5",
-      "color": "orange"
+      "color": "orange",
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 22,
@@ -614,7 +656,9 @@
       "offer": "off 30%",
       "price": 129,
       "rating": "5",
-      "color": "orange"
+      "color": "orange",
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 23,
@@ -642,7 +686,9 @@
       "offer": "off 30%",
       "price": 129,
       "rating": "0.5",
-      "color": " yellow"
+      "color": " yellow",
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 24,
@@ -670,7 +716,9 @@
       "offer": "off 30%",
       "price": 129,
       "rating": "",
-      "color": "green"
+      "color": "green",
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 25,
@@ -698,7 +746,9 @@
       "offer": "off 30%",
       "price": 129,
       "rating": "0.5",
-      "color": "white"
+      "color": "white",
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 26,
@@ -726,7 +776,9 @@
       "offer": "off 30%",
       "price": 129,
       "rating": "2",
-      "color": "black"
+      "color": "black",
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
 
     {
@@ -751,11 +803,12 @@
       "Productdetails": "Ingredients",
       "productdetails": " No Triphenyl Phospate, No Formaldehyde, No Camphor, No Formaldehyde releaser, No DPHP, No Toluene, No Glycol ether of series E, No DBP, No Perfume Ingredients, No Paraben, No Silicone, No Tosylamide, No Bisphenol A, No Phenoxyethanol",
       "MRP": "MRP:",
-      "mrp":  229,
+      "mrp": 229,
       "offer": "off 31%",
       "price": 158,
       "rating": "5",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "pink"
     },
     {
@@ -780,11 +833,12 @@
       "Productdetails": "Ingredients",
       "productdetails": " No Triphenyl Phospate, No Formaldehyde, No Camphor, No Formaldehyde releaser, No DPHP, No Toluene, No Glycol ether of series E, No DBP, No Perfume Ingredients, No Paraben, No Silicone, No Tosylamide, No Bisphenol A, No Phenoxyethanol",
       "MRP": "MRP:",
-      "mrp":  229,
+      "mrp": 229,
       "offer": "off 32%",
-      "price":  156,
+      "price": 156,
       "rating": "5",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "pink"
     },
     {
@@ -814,6 +868,7 @@
       "price": 109,
       "rating": "5",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "pink"
     },
     {
@@ -843,6 +898,7 @@
       "price": 136,
       "rating": "4",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "purple"
     },
     {
@@ -872,6 +928,7 @@
       "price": 119,
       "rating": "4",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "purple"
     },
     {
@@ -901,6 +958,7 @@
       "price": 132,
       "rating": "4",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "purple"
     },
     {
@@ -930,6 +988,7 @@
       "price": 117,
       "rating": "4",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": " brown"
     },
     {
@@ -959,6 +1018,7 @@
       "price": 136,
       "rating": "4",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": " brown"
     },
     {
@@ -988,6 +1048,7 @@
       "price": 147,
       "rating": "4",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": " brown"
     },
     {
@@ -1017,6 +1078,7 @@
       "price": 117,
       "rating": "5",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "nude"
     },
     {
@@ -1046,6 +1108,7 @@
       "price": 123,
       "rating": "4",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "nude"
     },
     {
@@ -1070,11 +1133,12 @@
       "Productdetails": "Ingredients",
       "productdetails": " No Triphenyl Phospate, No Formaldehyde, No Camphor, No Formaldehyde releaser, No DPHP, No Toluene, No Glycol ether of series E, No DBP, No Perfume Ingredients, No Paraben, No Silicone, No Tosylamide, No Bisphenol A, No Phenoxyethanol",
       "MRP": "MRP:",
-      "mrp":  229,
+      "mrp": 229,
       "offer": "off 22%",
       "price": 179,
       "rating": "5",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "nude"
     },
     {
@@ -1104,6 +1168,7 @@
       "price": 157,
       "rating": "4",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "red"
     },
     {
@@ -1133,6 +1198,7 @@
       "price": 140,
       "rating": "4",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "red"
     },
     {
@@ -1162,6 +1228,7 @@
       "price": 136,
       "rating": "4",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "red"
     },
     {
@@ -1186,11 +1253,12 @@
       "Productdetails": "Ingredients",
       "productdetails": " No Triphenyl Phospate, No Formaldehyde, No Camphor, No Formaldehyde releaser, No DPHP, No Toluene, No Glycol ether of series E, No DBP, No Perfume Ingredients, No Paraben, No Silicone, No Tosylamide, No Bisphenol A, No Phenoxyethanol",
       "MRP": "MRP:",
-      "mrp":  229,
+      "mrp": 229,
       "offer": "off 44%",
       "price": 128,
       "rating": "5",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "blue"
     },
     {
@@ -1220,6 +1288,7 @@
       "price": 109,
       "rating": "5",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "blue"
     },
     {
@@ -1249,6 +1318,7 @@
       "price": 144,
       "rating": "4",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "blue"
     },
     {
@@ -1278,6 +1348,7 @@
       "price": 149,
       "rating": "4",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "orange"
     },
     {
@@ -1307,6 +1378,7 @@
       "price": 129,
       "rating": "4",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "orange"
     },
     {
@@ -1336,6 +1408,7 @@
       "price": 106,
       "rating": "5",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": " yellow"
     },
     {
@@ -1360,11 +1433,12 @@
       "Productdetails": "Ingredients",
       "productdetails": " No Triphenyl Phospate, No Formaldehyde, No Camphor, No Formaldehyde releaser, No DPHP, No Toluene, No Glycol ether of series E, No DBP, No Perfume Ingredients, No Paraben, No Silicone, No Tosylamide, No Bisphenol A, No Phenoxyethanol",
       "MRP": "MRP:",
-      "mrp":  229,
+      "mrp": 229,
       "offer": "off 27%",
       "price": 167,
       "rating": "5",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": " yellow"
     },
     {
@@ -1394,6 +1468,7 @@
       "price": 136,
       "rating": "4",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": " yellow"
     },
     {
@@ -1423,6 +1498,7 @@
       "price": 144,
       "rating": "4",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "green"
     },
     {
@@ -1447,11 +1523,12 @@
       "Productdetails": "Ingredients",
       "productdetails": " No Triphenyl Phospate, No Formaldehyde, No Camphor, No Formaldehyde releaser, No DPHP, No Toluene, No Glycol ether of series E, No DBP, No Perfume Ingredients, No Paraben, No Silicone, No Tosylamide, No Bisphenol A, No Phenoxyethanol",
       "MRP": "MRP:",
-      "mrp":  229,
+      "mrp": 229,
       "offer": "off 25%",
       "price": 172,
       "rating": "5",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "white"
     },
     {
@@ -1481,6 +1558,7 @@
       "price": 106,
       "rating": "5",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "black"
     },
     {
@@ -1510,6 +1588,7 @@
       "price": 125,
       "rating": "4",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "pink"
     },
     {
@@ -1539,6 +1618,7 @@
       "price": 125,
       "rating": "4",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "pink"
     },
     {
@@ -1568,6 +1648,7 @@
       "price": 125,
       "rating": "4",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "pink"
     },
     {
@@ -1597,6 +1678,7 @@
       "price": 125,
       "rating": "4",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "purple"
     },
     {
@@ -1626,6 +1708,7 @@
       "price": 125,
       "rating": "3",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "brown"
     },
     {
@@ -1655,6 +1738,7 @@
       "price": 125,
       "rating": "4",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "brown"
     },
     {
@@ -1684,6 +1768,7 @@
       "price": 150,
       "rating": "4",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": " nude"
     },
     {
@@ -1713,6 +1798,7 @@
       "price": 125,
       "rating": "4",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": " red"
     },
     {
@@ -1742,6 +1828,7 @@
       "price": 125,
       "rating": "4",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": " red"
     },
     {
@@ -1771,6 +1858,7 @@
       "price": 125,
       "rating": "4",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": " blue"
     },
     {
@@ -1800,6 +1888,7 @@
       "price": 125,
       "rating": "2",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "white"
     },
     {
@@ -1829,6 +1918,7 @@
       "price": 245,
       "rating": "5",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "pink"
     },
     {
@@ -1858,6 +1948,7 @@
       "price": 182,
       "rating": "5",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "pink"
     },
     {
@@ -1887,6 +1978,7 @@
       "price": 246,
       "rating": "5",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "pink"
     },
     {
@@ -1916,6 +2008,7 @@
       "price": 244,
       "rating": "5",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "purple"
     },
     {
@@ -1945,6 +2038,7 @@
       "price": 245,
       "rating": "5",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "purple"
     },
     {
@@ -1974,6 +2068,7 @@
       "price": 244,
       "rating": "3",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "purple"
     },
     {
@@ -2003,6 +2098,7 @@
       "price": 246,
       "rating": "2",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "brown"
     },
     {
@@ -2032,6 +2128,7 @@
       "price": 246,
       "rating": "3",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "brown"
     },
     {
@@ -2061,6 +2158,7 @@
       "price": 245,
       "rating": "4",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "brown"
     },
     {
@@ -2090,6 +2188,7 @@
       "price": 246,
       "rating": "1",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "red"
     },
     {
@@ -2119,6 +2218,7 @@
       "price": 246,
       "rating": "3",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "red"
     },
     {
@@ -2148,6 +2248,7 @@
       "price": 246,
       "rating": "5",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "red"
     },
     {
@@ -2177,6 +2278,7 @@
       "price": 245,
       "rating": "5",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "blue"
     },
     {
@@ -2206,6 +2308,7 @@
       "price": 246,
       "rating": "4",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "blue"
     },
     {
@@ -2235,6 +2338,7 @@
       "price": 246,
       "rating": "4",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": " green"
     },
     {
@@ -2264,6 +2368,7 @@
       "price": 245,
       "rating": "2",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": " green"
     },
     {
@@ -2293,6 +2398,7 @@
       "price": 246,
       "rating": "3",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": " green"
     },
     {
@@ -2322,6 +2428,7 @@
       "price": 246,
       "rating": "5",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": " yellow"
     },
     {
@@ -2344,6 +2451,7 @@
       "price": 99,
       "rating": "3",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "pink"
     },
     {
@@ -2366,6 +2474,7 @@
       "price": 99,
       "rating": "4",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "blue"
     },
     {
@@ -2395,6 +2504,7 @@
       "price": 52,
       "rating": "4",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "pink"
     },
     {
@@ -2424,6 +2534,7 @@
       "price": 57,
       "rating": "3",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "pink"
     },
     {
@@ -2453,6 +2564,7 @@
       "price": 57,
       "rating": "4",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "pink"
     },
     {
@@ -2482,6 +2594,7 @@
       "price": 52,
       "rating": "3",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "pink"
     },
     {
@@ -2511,6 +2624,7 @@
       "price": 52,
       "rating": "4",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "pink"
     },
     {
@@ -2540,6 +2654,7 @@
       "price": 52,
       "rating": "",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "pink"
     },
     {
@@ -2569,6 +2684,7 @@
       "price": 57,
       "rating": "4",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "purple"
     },
     {
@@ -2598,6 +2714,7 @@
       "price": 57,
       "rating": "4",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "purple"
     },
     {
@@ -2627,6 +2744,7 @@
       "price": 52,
       "rating": "1",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "purple"
     },
     {
@@ -2656,6 +2774,7 @@
       "price": 52,
       "rating": "",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "purple"
     },
     {
@@ -2682,6 +2801,7 @@
       "price": 55,
       "rating": "",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "brown"
     },
     {
@@ -2711,6 +2831,7 @@
       "price": 57,
       "rating": "",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "brown"
     },
     {
@@ -2740,6 +2861,7 @@
       "price": 57,
       "rating": "1",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "brown"
     },
     {
@@ -2769,6 +2891,7 @@
       "price": 57,
       "rating": "1",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "red"
     },
     {
@@ -2798,6 +2921,7 @@
       "price": 52,
       "rating": "3",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "red"
     },
     {
@@ -2827,6 +2951,7 @@
       "price": 52,
       "rating": "",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "red"
     },
     {
@@ -2856,6 +2981,7 @@
       "price": 52,
       "rating": "",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "red"
     },
     {
@@ -2885,6 +3011,7 @@
       "price": 52,
       "rating": "3",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "blue"
     },
     {
@@ -2914,6 +3041,7 @@
       "price": 57,
       "rating": "4",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "blue"
     },
     {
@@ -2943,6 +3071,7 @@
       "price": 52,
       "rating": "1",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "blue"
     },
     {
@@ -2972,6 +3101,7 @@
       "price": 52,
       "rating": "",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "blue"
     },
     {
@@ -3001,6 +3131,7 @@
       "price": 52,
       "rating": "",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "orange"
     },
     {
@@ -3030,6 +3161,7 @@
       "price": 52,
       "rating": "5",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": " yellow"
     },
     {
@@ -3059,6 +3191,7 @@
       "price": 225,
       "rating": "4",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "pink"
     },
     {
@@ -3088,6 +3221,7 @@
       "price": 194,
       "rating": "3",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "pink"
     },
     {
@@ -3117,6 +3251,7 @@
       "price": "238",
       "rating": "",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "pink"
     },
     {
@@ -3146,6 +3281,7 @@
       "price": "238",
       "rating": "5",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "pink"
     },
     {
@@ -3175,6 +3311,7 @@
       "price": "231",
       "rating": "",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "pink"
     },
     {
@@ -3204,6 +3341,7 @@
       "price": 246,
       "rating": "5",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "purple"
     },
     {
@@ -3233,6 +3371,7 @@
       "price": "207",
       "rating": "",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "red"
     },
     {
@@ -3262,6 +3401,7 @@
       "price": "243",
       "rating": "",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "red"
     },
     {
@@ -3291,6 +3431,7 @@
       "price": "205",
       "rating": "2",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "red"
     },
     {
@@ -3320,6 +3461,7 @@
       "price": "228",
       "rating": "3",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "blue"
     },
     {
@@ -3349,6 +3491,7 @@
       "price": "233",
       "rating": "5",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "blue"
     },
     {
@@ -3373,11 +3516,12 @@
       "Productdetails": "Ingredients",
       "productdetails": "Butyl Acetate IP, Nitrocellulose, Polyester-23, Acetyl Tributyl Citrate, Isopropyl Alcohol IS, Stearalkonium Bentonite, Styrene/Acrylates Copolymer, Diacetone Alcohol, Sucrose Acetate Isobutyrate, Acrylates Copolymer, Silica, Phosphoric Acid",
       "MRP": "MRP:",
-      "mrp":  129,
+      "mrp": 129,
       "offer": "off 24%",
       "price": 97,
       "rating": "1",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "pink"
     },
     {
@@ -3402,11 +3546,12 @@
       "Productdetails": "Ingredients",
       "productdetails": "Butyl Acetate IP, Nitrocellulose, Polyester-23, Acetyl Tributyl Citrate, Isopropyl Alcohol IS, Stearalkonium Bentonite, Styrene/Acrylates Copolymer, Diacetone Alcohol, Sucrose Acetate Isobutyrate, Acrylates Copolymer, Silica, Phosphoric Acid",
       "MRP": "MRP:",
-      "mrp":  129,
+      "mrp": 129,
       "offer": "off 24%",
       "price": 97,
       "rating": "3",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "pink"
     },
     {
@@ -3431,11 +3576,12 @@
       "Productdetails": "Ingredients",
       "productdetails": "Butyl Acetate IP, Nitrocellulose, Polyester-23, Acetyl Tributyl Citrate, Isopropyl Alcohol IS, Stearalkonium Bentonite, Styrene/Acrylates Copolymer, Diacetone Alcohol, Sucrose Acetate Isobutyrate, Acrylates Copolymer, Silica, Phosphoric Acid",
       "MRP": "MRP:",
-      "mrp":  129,
+      "mrp": 129,
       "offer": "off 24%",
       "price": 97,
       "rating": "5",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "pink"
     },
     {
@@ -3460,11 +3606,12 @@
       "Productdetails": "Ingredients",
       "productdetails": "Butyl Acetate IP, Nitrocellulose, Polyester-23, Acetyl Tributyl Citrate, Isopropyl Alcohol IS, Stearalkonium Bentonite, Styrene/Acrylates Copolymer, Diacetone Alcohol, Sucrose Acetate Isobutyrate, Acrylates Copolymer, Silica, Phosphoric Acid",
       "MRP": "MRP:",
-      "mrp":  129,
+      "mrp": 129,
       "offer": "off 24%",
       "price": 97,
       "rating": "4",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "purple"
     },
     {
@@ -3489,11 +3636,12 @@
       "Productdetails": "Ingredients",
       "productdetails": "Butyl Acetate IP, Nitrocellulose, Polyester-23, Acetyl Tributyl Citrate, Isopropyl Alcohol IS, Stearalkonium Bentonite, Styrene/Acrylates Copolymer, Diacetone Alcohol, Sucrose Acetate Isobutyrate, Acrylates Copolymer, Silica, Phosphoric Acid",
       "MRP": "MRP:",
-      "mrp":  129,
+      "mrp": 129,
       "offer": "off 24%",
       "price": 97,
       "rating": "2",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "brown"
     },
     {
@@ -3518,11 +3666,12 @@
       "Productdetails": "Ingredients",
       "productdetails": "Butyl Acetate IP, Nitrocellulose, Polyester-23, Acetyl Tributyl Citrate, Isopropyl Alcohol IS, Stearalkonium Bentonite, Styrene/Acrylates Copolymer, Diacetone Alcohol, Sucrose Acetate Isobutyrate, Acrylates Copolymer, Silica, Phosphoric Acid",
       "MRP": "MRP:",
-      "mrp":  129,
+      "mrp": 129,
       "offer": "off 24%",
       "price": 97,
       "rating": "",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "brown"
     },
     {
@@ -3547,11 +3696,12 @@
       "Productdetails": "Ingredients",
       "productdetails": "Butyl Acetate IP, Nitrocellulose, Polyester-23, Acetyl Tributyl Citrate, Isopropyl Alcohol IS, Stearalkonium Bentonite, Styrene/Acrylates Copolymer, Diacetone Alcohol, Sucrose Acetate Isobutyrate, Acrylates Copolymer, Silica, Phosphoric Acid",
       "MRP": "MRP:",
-      "mrp":  129,
+      "mrp": 129,
       "offer": "off 24%",
       "price": 97,
       "rating": "5",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "nude"
     },
     {
@@ -3581,6 +3731,7 @@
       "price": "87",
       "rating": "5",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "nude"
     },
     {
@@ -3605,11 +3756,12 @@
       "Productdetails": "Ingredients",
       "productdetails": "Butyl Acetate IP, Nitrocellulose, Polyester-23, Acetyl Tributyl Citrate, Isopropyl Alcohol IS, Stearalkonium Bentonite, Styrene/Acrylates Copolymer, Diacetone Alcohol, Sucrose Acetate Isobutyrate, Acrylates Copolymer, Silica, Phosphoric Acid",
       "MRP": "MRP:",
-      "mrp":  129,
+      "mrp": 129,
       "offer": "off 24%",
       "price": 97,
       "rating": "5",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "red"
     },
     {
@@ -3634,11 +3786,12 @@
       "Productdetails": "Ingredients",
       "productdetails": "Butyl Acetate IP, Nitrocellulose, Polyester-23, Acetyl Tributyl Citrate, Isopropyl Alcohol IS, Stearalkonium Bentonite, Styrene/Acrylates Copolymer, Diacetone Alcohol, Sucrose Acetate Isobutyrate, Acrylates Copolymer, Silica, Phosphoric Acid",
       "MRP": "MRP:",
-      "mrp":  129,
+      "mrp": 129,
       "offer": "off 24%",
       "price": 97,
       "rating": "5",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "red"
     },
     {
@@ -3663,11 +3816,12 @@
       "Productdetails": "Ingredients",
       "productdetails": "Butyl Acetate IP, Nitrocellulose, Polyester-23, Acetyl Tributyl Citrate, Isopropyl Alcohol IS, Stearalkonium Bentonite, Styrene/Acrylates Copolymer, Diacetone Alcohol, Sucrose Acetate Isobutyrate, Acrylates Copolymer, Silica, Phosphoric Acid",
       "MRP": "MRP:",
-      "mrp":  129,
+      "mrp": 129,
       "offer": "off 24%",
       "price": 97,
       "rating": "",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "blue"
     },
     {
@@ -3697,6 +3851,7 @@
       "price": 169,
       "rating": "2",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "pink"
     },
     {
@@ -3726,6 +3881,7 @@
       "price": "191",
       "rating": "",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "pink"
     },
     {
@@ -3755,6 +3911,7 @@
       "price": 169,
       "rating": "3",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "pink"
     },
     {
@@ -3784,6 +3941,7 @@
       "price": "191",
       "rating": "3",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "purple"
     },
     {
@@ -3813,6 +3971,7 @@
       "price": "191",
       "rating": "5",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "purple"
     },
     {
@@ -3842,6 +4001,7 @@
       "price": "191",
       "rating": "5",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "brown"
     },
     {
@@ -3871,6 +4031,7 @@
       "price": 149,
       "rating": "",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "brown"
     },
     {
@@ -3900,6 +4061,7 @@
       "price": 169,
       "rating": "",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "brown"
     },
     {
@@ -3929,6 +4091,7 @@
       "price": "191",
       "rating": "5",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "nude"
     },
     {
@@ -3958,6 +4121,7 @@
       "price": "191",
       "rating": "1",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "nude"
     },
     {
@@ -3987,6 +4151,7 @@
       "price": "191",
       "rating": "",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "nude"
     },
     {
@@ -4016,6 +4181,7 @@
       "price": 149,
       "rating": "1",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "red"
     },
     {
@@ -4045,6 +4211,7 @@
       "price": "191",
       "rating": "",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "red"
     },
     {
@@ -4074,6 +4241,7 @@
       "price": "191",
       "rating": "",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "red"
     },
     {
@@ -4103,6 +4271,7 @@
       "price": 169,
       "rating": "",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "blue"
     },
     {
@@ -4132,6 +4301,7 @@
       "price": 169,
       "rating": "",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "blue"
     },
     {
@@ -4161,6 +4331,7 @@
       "price": "191",
       "rating": "1",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "blue"
     },
     {
@@ -4190,6 +4361,7 @@
       "price": "191",
       "rating": "4",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": " yellow"
     },
     {
@@ -4219,6 +4391,7 @@
       "price": "191",
       "rating": "",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": " yellow"
     },
     {
@@ -4248,6 +4421,7 @@
       "price": "191",
       "rating": "5",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": " green"
     },
     {
@@ -4277,6 +4451,7 @@
       "price": 149,
       "rating": "5",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "black"
     },
     {
@@ -4306,6 +4481,7 @@
       "price": 149,
       "rating": "5",
       "tax": "inclusive of all taxes",
+      "quantity": 1,
       "color": "black"
     },
 
@@ -4334,7 +4510,8 @@
       "MRP": "",
       "price": 332,
       "rating": "5",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 154,
@@ -4359,7 +4536,8 @@
       "MRP": "",
       "price": "236",
       "rating": "5",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 155,
@@ -4386,7 +4564,8 @@
       "MRP": "",
       "price": 332,
       "rating": "4",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 156,
@@ -4408,7 +4587,8 @@
       "MRP": "",
       "price": "389",
       "rating": "4",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 157,
@@ -4432,7 +4612,8 @@
       "MRP": "",
       "price": 99,
       "rating": "3",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 158,
@@ -4456,7 +4637,8 @@
       "MRP": "",
       "price": "235",
       "rating": "4",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 159,
@@ -4481,7 +4663,8 @@
       "MRP": "",
       "price": 298,
       "rating": "",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 160,
@@ -4504,7 +4687,8 @@
       "MRP": "",
       "price": 324,
       "rating": "2",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 161,
@@ -4529,7 +4713,8 @@
       "MRP": "",
       "price": 216,
       "rating": "",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 162,
@@ -4552,7 +4737,8 @@
       "MRP": "",
       "price": 91,
       "rating": "5",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 163,
@@ -4574,7 +4760,8 @@
       "MRP": "",
       "price": "431",
       "rating": "5",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 164,
@@ -4597,7 +4784,8 @@
       "MRP": "",
       "price": "354",
       "rating": "5",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 165,
@@ -4620,7 +4808,8 @@
       "MRP": "",
       "price": "354",
       "rating": "5",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 166,
@@ -4646,7 +4835,8 @@
       "MRP": "",
       "price": 164,
       "rating": "5",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 167,
@@ -4668,7 +4858,8 @@
       "MRP": "",
       "price": "431",
       "rating": "3",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
 
     {
@@ -4691,7 +4882,8 @@
       "MRP": "",
       "price": "174",
       "rating": "",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 169,
@@ -4713,7 +4905,8 @@
       "MRP": "",
       "price": "174",
       "rating": "5",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 170,
@@ -4735,7 +4928,8 @@
       "MRP": "",
       "price": "120",
       "rating": "5",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 171,
@@ -4757,7 +4951,8 @@
       "MRP": "",
       "price": "174",
       "rating": "4",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 172,
@@ -4781,7 +4976,8 @@
       "offer": "off 25%",
       "price": 194,
       "rating": "5",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 173,
@@ -4806,7 +5002,8 @@
       "MRP": "",
       "price": 171,
       "rating": "5",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 174,
@@ -4830,7 +5027,8 @@
       "MRP": "",
       "price": 345,
       "rating": "5",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 175,
@@ -4854,7 +5052,8 @@
       "MRP": "",
       "price": 312,
       "rating": "5",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 176,
@@ -4877,7 +5076,8 @@
       "MRP": "",
       "price": 230,
       "rating": "5",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 177,
@@ -4900,7 +5100,8 @@
       "MRP": "",
       "price": 203,
       "rating": "5",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 178,
@@ -4923,7 +5124,8 @@
       "MRP": "",
       "price": 173,
       "rating": "5",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 179,
@@ -4945,7 +5147,8 @@
       "MRP": "",
       "price": 137,
       "rating": "2",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 180,
@@ -4967,7 +5170,8 @@
       "MRP": "",
       "price": 137,
       "rating": "5",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 181,
@@ -4992,7 +5196,8 @@
       "MRP": "",
       "price": 148,
       "rating": "5",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 182,
@@ -5014,7 +5219,8 @@
       "MRP": "",
       "price": 137,
       "rating": "5",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 183,
@@ -5036,7 +5242,8 @@
       "MRP": "",
       "price": 148,
       "rating": "5",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 184,
@@ -5062,7 +5269,8 @@
       "offer": "off 25%",
       "price": 324,
       "rating": "5",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 185,
@@ -5085,7 +5293,8 @@
       "MRP": "",
       "price": 93,
       "rating": "5",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 186,
@@ -5108,7 +5317,8 @@
       "MRP": "",
       "price": 230,
       "rating": "",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 187,
@@ -5132,7 +5342,8 @@
       "offer": "off 30%",
       "price": 257,
       "rating": "4",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 188,
@@ -5158,7 +5369,8 @@
       "offer": "off 40%",
       "price": 91,
       "rating": "5",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 189,
@@ -5182,7 +5394,8 @@
       "offer": "off 40%",
       "price": 142,
       "rating": "3",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 190,
@@ -5207,7 +5420,8 @@
       "offer": "off 25%",
       "price": 97,
       "rating": "5",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 191,
@@ -5230,7 +5444,8 @@
       "MRP": "",
       "price": 138,
       "rating": "3",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 192,
@@ -5254,9 +5469,10 @@
       "MRP": "MRP:",
       "mrp": 173,
       "offer": "offer 10%",
-      "price":  156,
+      "price": 156,
       "rating": "1",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 193,
@@ -5281,7 +5497,8 @@
       "offer": "off 25%",
       "price": 129,
       "rating": "5",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 194,
@@ -5304,7 +5521,8 @@
       "MRP": "",
       "price": 379,
       "rating": "",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 195,
@@ -5327,7 +5545,8 @@
       "MRP": "",
       "price": 379,
       "rating": "5",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 196,
@@ -5352,7 +5571,8 @@
       "MRP": "",
       "price": 137,
       "rating": "2",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 197,
@@ -5378,7 +5598,8 @@
       "MRP": "",
       "price": 332,
       "rating": "5",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 198,
@@ -5401,7 +5622,8 @@
       "MRP": "",
       "price": 214,
       "rating": "5",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 199,
@@ -5424,7 +5646,8 @@
       "MRP": "",
       "price": 159,
       "rating": "",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 200,
@@ -5447,7 +5670,8 @@
       "MRP": "",
       "price": 148,
       "rating": "3",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 201,
@@ -5469,7 +5693,8 @@
       "MRP": "",
       "price": 246,
       "rating": "4",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 202,
@@ -5492,7 +5717,8 @@
       "MRP": "",
       "price": 224,
       "rating": "5",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 203,
@@ -5517,7 +5743,8 @@
       "MRP": "",
       "price": 115,
       "rating": "2",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 204,
@@ -5544,7 +5771,8 @@
       "MRP": "",
       "price": 312,
       "rating": "5",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 205,
@@ -5569,7 +5797,8 @@
       "MRP": "",
       "price": 306,
       "rating": "5",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 206,
@@ -5597,7 +5826,8 @@
       "offer": "off 30%",
       "price": 265,
       "rating": "5",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 207,
@@ -5623,7 +5853,8 @@
       "MRP": "",
       "price": 312,
       "rating": "5",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 208,
@@ -5647,7 +5878,8 @@
       "MRP": "",
       "price": 409,
       "rating": "3",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 209,
@@ -5673,7 +5905,8 @@
       "MRP": "",
       "price": 312,
       "rating": "5",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 210,
@@ -5698,7 +5931,8 @@
       "MRP": "",
       "price": 312,
       "rating": "",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 211,
@@ -5724,7 +5958,8 @@
       "MRP": "",
       "price": 312,
       "rating": "",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 212,
@@ -5748,7 +5983,8 @@
       "MRP": "",
       "price": 307,
       "rating": "3",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 213,
@@ -5774,7 +6010,8 @@
       "MRP": "",
       "price": 312,
       "rating": "5",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 214,
@@ -5801,7 +6038,8 @@
       "offer": "off 24%",
       "price": 167,
       "rating": "4",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 215,
@@ -5826,7 +6064,8 @@
       "offer": "off 1%",
       "price": 108,
       "rating": "3",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 216,
@@ -5852,7 +6091,8 @@
       "offer": "off 49%",
       "price": 497,
       "rating": "",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 217,
@@ -5878,7 +6118,8 @@
       "offer": "off 14%",
       "price": 299,
       "rating": "",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 218,
@@ -5904,7 +6145,8 @@
       "offer": "off 52%",
       "price": 145,
       "rating": "3",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 219,
@@ -5932,7 +6174,8 @@
       "offer": "off 23%",
       "price": 249,
       "rating": "",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 220,
@@ -5955,7 +6198,8 @@
       "offer": "off 35%",
       "price": 548,
       "rating": "5",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 221,
@@ -5982,7 +6226,8 @@
       "offer": "off 61%",
       "price": 195,
       "rating": "",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 222,
@@ -6009,7 +6254,8 @@
       "offer": "off 33%",
       "price": 499,
       "rating": "1",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 223,
@@ -6035,7 +6281,8 @@
       "offer": "off 58%",
       "price": 164,
       "rating": "4",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 224,
@@ -6061,7 +6308,8 @@
       "offer": "off 25%",
       "price": 399,
       "rating": "3",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 225,
@@ -6088,7 +6336,8 @@
       "offer": "off 45%",
       "price": 218,
       "rating": "4",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 226,
@@ -6115,7 +6364,8 @@
       "offer": "off 62%",
       "price": 188,
       "rating": "",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 227,
@@ -6142,7 +6392,8 @@
       "offer": "off 52%",
       "price": 337,
       "rating": "5",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 228,
@@ -6169,7 +6420,8 @@
       "offer": "off 7%",
       "price": 185,
       "rating": "5",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 229,
@@ -6195,7 +6447,8 @@
       "offer": "off 10%",
       "price": 89,
       "rating": "",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 230,
@@ -6221,7 +6474,8 @@
       "offer": "off 12%",
       "price": 83,
       "rating": "4",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 231,
@@ -6247,7 +6501,8 @@
       "offer": "off 56%",
       "price": 298,
       "rating": "3",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 232,
@@ -6274,7 +6529,8 @@
       "offer": "off 65%",
       "price": 175,
       "rating": "5",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 233,
@@ -6301,7 +6557,8 @@
       "offer": "off 30%",
       "price": 199,
       "rating": "4",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 234,
@@ -6328,7 +6585,8 @@
       "offer": "off 48%",
       "price": 154,
       "rating": "",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 235,
@@ -6354,7 +6612,8 @@
       "offer": "off 74%",
       "price": 89,
       "rating": "1",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 236,
@@ -6381,7 +6640,8 @@
       "offer": "off 15%",
       "price": 168,
       "rating": "",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 237,
@@ -6408,7 +6668,8 @@
       "offer": "off 50%",
       "price": 299,
       "rating": "5",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 238,
@@ -6435,7 +6696,8 @@
       "offer": "off 11%",
       "price": 146,
       "rating": "3",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 239,
@@ -6462,7 +6724,8 @@
       "offer": "off 10%",
       "price": 135,
       "rating": "2",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 240,
@@ -6490,7 +6753,8 @@
       "offer": "off 77%",
       "price": 293,
       "rating": "4",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 241,
@@ -6516,7 +6780,8 @@
       "offer": "off 62%",
       "price": 189,
       "rating": "3",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
 
     {
@@ -6546,7 +6811,8 @@
       "offer": "off 10%",
       "price": 310,
       "rating": "5",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 243,
@@ -6570,7 +6836,8 @@
       "offer": "off 30%",
       "price": 212,
       "rating": "5",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 244,
@@ -6594,7 +6861,8 @@
       "MRP": "",
       "price": 249,
       "rating": "",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 245,
@@ -6618,7 +6886,8 @@
       "MRP": "",
       "price": 216,
       "rating": "3",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 246,
@@ -6640,7 +6909,8 @@
       "MRP": "",
       "price": 160,
       "rating": "",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 247,
@@ -6662,7 +6932,8 @@
       "MRP": "",
       "price": 259,
       "rating": "1",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 248,
@@ -6687,7 +6958,8 @@
       "offer": "off 25%",
       "price": 129,
       "rating": "",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 249,
@@ -6712,7 +6984,8 @@
       "offer": "off 25%",
       "price": 193,
       "rating": "3",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 250,
@@ -6738,7 +7011,8 @@
       "offer": "off 10%",
       "price": 201,
       "rating": "5",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 251,
@@ -6762,7 +7036,8 @@
       "offer": "off 25%",
       "price": 129,
       "rating": "5",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 252,
@@ -6788,7 +7063,8 @@
       "offer": "off 25%",
       "price": 162,
       "rating": "5",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 253,
@@ -6809,7 +7085,8 @@
       "MRP": "",
       "price": 220,
       "rating": "",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 254,
@@ -6833,7 +7110,8 @@
       "offer": "off 40%",
       "price": 91,
       "rating": "",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 255,
@@ -6858,7 +7136,8 @@
       "offer": "off 25%",
       "price": 129,
       "rating": "",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 256,
@@ -6885,7 +7164,8 @@
       "offer": "off 25%",
       "price": 168,
       "rating": "4",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 257,
@@ -6911,7 +7191,8 @@
       "offer": "off 25%",
       "price": 129,
       "rating": "5",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 258,
@@ -6940,7 +7221,8 @@
       "offer": "off 40%",
       "price": 91,
       "rating": "",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 259,
@@ -6964,7 +7246,8 @@
       "offer": "off 25%",
       "price": 97,
       "rating": "5",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 260,
@@ -6988,7 +7271,8 @@
       "offer": "off 25%",
       "price": 258,
       "rating": "5",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 261,
@@ -7016,7 +7300,8 @@
       "offer": "off 40%",
       "price": 142,
       "rating": "5",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 271,
@@ -7043,7 +7328,8 @@
       "offer": "off 60%",
       "price": 199,
       "rating": "4",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 272,
@@ -7070,7 +7356,8 @@
       "offer": "off 73%",
       "price": 135,
       "rating": "5",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 273,
@@ -7099,7 +7386,8 @@
       "offer": "off 42%",
       "price": 289,
       "rating": "",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 274,
@@ -7126,7 +7414,8 @@
       "offer": "off 67%",
       "price": 299,
       "rating": "5",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 275,
@@ -7153,7 +7442,8 @@
       "offer": "off 64%",
       "price": 270,
       "rating": "3",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 276,
@@ -7179,7 +7469,8 @@
       "offer": "off 51%",
       "price": 365,
       "rating": "4",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 277,
@@ -7208,7 +7499,8 @@
       "offer": "off 60%",
       "price": 299,
       "rating": "",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 278,
@@ -7236,7 +7528,8 @@
       "offer": "off 61%",
       "price": 349,
       "rating": "3",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 279,
@@ -7263,7 +7556,8 @@
       "offer": "off 73%",
       "price": 135,
       "rating": "",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 280,
@@ -7292,7 +7586,8 @@
       "offer": "off 33%",
       "price": 449,
       "rating": "4",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 281,
@@ -7319,7 +7614,8 @@
       "offer": "off 61%",
       "price": 295,
       "rating": "4",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 282,
@@ -7345,7 +7641,8 @@
       "MRP": "",
       "price": 295,
       "rating": "",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 283,
@@ -7371,7 +7668,8 @@
       "MRP": "",
       "price": 155,
       "rating": "",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 284,
@@ -7396,7 +7694,8 @@
       "MRP": "",
       "price": 300,
       "rating": "",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 285,
@@ -7423,7 +7722,8 @@
       "MRP": "",
       "price": 400,
       "rating": "4",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 286,
@@ -7449,7 +7749,8 @@
       "offer": "off 70%",
       "price": 299,
       "rating": "2",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 287,
@@ -7473,7 +7774,8 @@
       "MRP": "",
       "price": 199,
       "rating": "4",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 288,
@@ -7499,7 +7801,8 @@
       "MRP": "",
       "price": 220,
       "rating": "",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 289,
@@ -7527,7 +7830,8 @@
       "offer": "offer 10",
       "price": 272,
       "rating": "5",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 290,
@@ -7550,7 +7854,8 @@
       "MRP": "",
       "price": 93,
       "rating": "3",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 291,
@@ -7579,7 +7884,8 @@
       "offer": "offer 40%",
       "price": 181,
       "rating": "5",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 292,
@@ -7603,7 +7909,8 @@
       "offer": "offer 25%",
       "price": 161,
       "rating": "",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 293,
@@ -7627,7 +7934,8 @@
       "offer": "offer 25%",
       "price": 161,
       "rating": "5",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 294,
@@ -7652,7 +7960,8 @@
       "offer": "offer 10%",
       "price": 232,
       "rating": "5",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 295,
@@ -7679,7 +7988,8 @@
       "offer": "offer 25%",
       "price": 129,
       "rating": "4",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 296,
@@ -7706,7 +8016,8 @@
       "offer": "offer 40%",
       "price": 181,
       "rating": "4",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 297,
@@ -7732,7 +8043,8 @@
       "offer": "offer 10%",
       "price": 310,
       "rating": "2",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 298,
@@ -7756,7 +8068,8 @@
       "offer": "offer 25%",
       "price": 193,
       "rating": "4",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 299,
@@ -7784,7 +8097,8 @@
       "offer": "offer 40%",
       "price": 363,
       "rating": "",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 300,
@@ -7810,7 +8124,8 @@
       "offer": "offer 20%",
       "price": 104,
       "rating": "5",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 301,
@@ -7838,7 +8153,8 @@
       "offer": "offer 25%",
       "price": 129,
       "rating": "",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 302,
@@ -7867,7 +8183,8 @@
       "offer": "offer 25%",
       "price": 193,
       "rating": "5",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 303,
@@ -7894,7 +8211,8 @@
       "offer": "offer 25%",
       "price": 161,
       "rating": "5",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 304,
@@ -7919,7 +8237,8 @@
       "offer": "offer 25%",
       "price": 104,
       "rating": "",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 305,
@@ -7945,7 +8264,8 @@
       "offer": "offer 20%",
       "price": 193,
       "rating": "5",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 306,
@@ -7967,7 +8287,8 @@
       "offer": "offer 20%",
       "price": 25600,
       "rating": "",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 307,
@@ -7989,7 +8310,8 @@
       "offer": "offer 20%",
       "price": 28000,
       "rating": "",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 308,
@@ -8011,7 +8333,8 @@
       "offer": "offer 20%",
       "price": 22400,
       "rating": "",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 309,
@@ -8033,7 +8356,8 @@
       "offer": "offer 20%",
       "price": 11600,
       "rating": "",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 310,
@@ -8055,7 +8379,8 @@
       "offer": "offer 20%",
       "price": 29600,
       "rating": "",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 311,
@@ -8077,7 +8402,8 @@
       "offer": "offer 20%",
       "price": 25600,
       "rating": "",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 312,
@@ -8099,7 +8425,8 @@
       "offer": "offer 20%",
       "price": 28000,
       "rating": "",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 313,
@@ -8120,7 +8447,8 @@
       "offer": "offer 20%",
       "price": 22400,
       "rating": "",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 314,
@@ -8142,7 +8470,8 @@
       "offer": "offer 20%",
       "price": 11600,
       "rating": "",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 315,
@@ -8164,7 +8493,8 @@
       "offer": "offer 20%",
       "price": 29600,
       "rating": "",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 316,
@@ -8192,7 +8522,8 @@
       "offer": "offer 47%",
       "price": "7,999",
       "rating": "",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 317,
@@ -8218,7 +8549,8 @@
       "offer": "offer 62%",
       "price": 225,
       "rating": "3",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 318,
@@ -8246,7 +8578,8 @@
       "offer": "offer 67%",
       "price": 990,
       "rating": "4",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 319,
@@ -8275,7 +8608,8 @@
       "offer": "offer 47%",
       "price": 799,
       "rating": "",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 320,
@@ -8303,7 +8637,8 @@
       "offer": "offer 36%",
       "price": 449,
       "rating": "",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 321,
@@ -8327,7 +8662,8 @@
       "MRP": "",
       "price": 13000,
       "rating": "",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 322,
@@ -8354,7 +8690,8 @@
       "offer": "offer 56%",
       "price": 399,
       "rating": "3",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 323,
@@ -8379,7 +8716,8 @@
       "offer": "offer 5%",
       "price": 105,
       "rating": "3",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 324,
@@ -8406,7 +8744,8 @@
       "offer": "offer 55%",
       "price": 90,
       "rating": "3",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 325,
@@ -8432,7 +8771,8 @@
       "offer": "offer 60%",
       "price": 279,
       "rating": "5",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 326,
@@ -8457,7 +8797,8 @@
       "offer": "offer 45%",
       "price": 69,
       "rating": "5",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 327,
@@ -8485,7 +8826,8 @@
       "offer": "offer 43%",
       "price": 849,
       "rating": "4",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 328,
@@ -8513,7 +8855,8 @@
       "offer": "offer 43%",
       "price": 169,
       "rating": "4",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 329,
@@ -8541,7 +8884,8 @@
       "offer": "offer 25%",
       "price": 299,
       "rating": "5",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 330,
@@ -8569,7 +8913,8 @@
       "offer": "offer 33%",
       "price": 1999,
       "rating": "",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 331,
@@ -8597,7 +8942,8 @@
       "offer": "offer 52%",
       "price": 339,
       "rating": "5",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     },
     {
       "id": 332,
@@ -8624,7 +8970,8 @@
       "offer": "offer 63%",
       "price": 185,
       "rating": "5",
-      "tax": "inclusive of all taxes"
+      "tax": "inclusive of all taxes",
+      "quantity": 1
     }
   ]
 }
