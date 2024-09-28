@@ -26,9 +26,9 @@
       "offer": "off 30%",
       "price": 129,
       "rating": "1",
-      "color": "Pink",
       "tax": "inclusive of all taxes",
-      "quantity": 1
+      "quantity": 1,
+      "color": "Pink"
     },
     {
       "id": 2,
@@ -56,9 +56,9 @@
       "offer": "off 30%",
       "price": 129,
       "rating": "5",
-      "color": "Pink",
       "tax": "inclusive of all taxes",
-      "quantity": 1
+      "quantity": 1,
+      "color": "Pink"
     },
     {
       "id": 3,
@@ -86,9 +86,9 @@
       "offer": "off 30%",
       "price": 129,
       "rating": "4",
-      "color": "Pink",
       "tax": "inclusive of all taxes",
-      "quantity": 1
+      "quantity": 1,
+      "color": "Pink"
     },
     {
       "id": 4,
@@ -116,9 +116,9 @@
       "offer": "off 30%",
       "price": 129,
       "rating": "",
-      "color": "Purple",
       "tax": "inclusive of all taxes",
-      "quantity": 1
+      "quantity": 1,
+      "color": "Purple"
     },
     {
       "id": 5,
@@ -146,9 +146,9 @@
       "offer": "off 30%",
       "price": 129,
       "rating": "",
-      "color": "Purple",
       "tax": "inclusive of all taxes",
-      "quantity": 1
+      "quantity": 1,
+      "color": "Purple"
     },
     {
       "id": 6,
@@ -176,9 +176,9 @@
       "offer": "off 30%",
       "price": 129,
       "rating": "",
-      "color": "Purple",
       "tax": "inclusive of all taxes",
-      "quantity": 1
+      "quantity": 1,
+      "color": "Purple"
     },
     {
       "id": 7,
@@ -206,9 +206,9 @@
       "offer": "off 30%",
       "price": 129,
       "rating": "",
-      "color": "brown",
       "tax": "inclusive of all taxes",
-      "quantity": 1
+      "quantity": 1,
+      "color": "Brown"
     },
     {
       "id": 8,
@@ -236,9 +236,9 @@
       "offer": "off 30%",
       "price": 129,
       "rating": "2",
-      "color": "brown",
       "tax": "inclusive of all taxes",
-      "quantity": 1
+      "quantity": 1,
+      "color": "Brown"
     },
     {
       "id": 9,
@@ -266,9 +266,9 @@
       "offer": "off 30%",
       "price": 129,
       "rating": "4",
-      "color": "nude",
       "tax": "inclusive of all taxes",
-      "quantity": 1
+      "quantity": 1,
+      "color": "Nude"
     },
     {
       "id": 10,
@@ -296,9 +296,9 @@
       "offer": "off 30%",
       "price": 129,
       "rating": "3",
-      "color": "nude",
       "tax": "inclusive of all taxes",
-      "quantity": 1
+      "quantity": 1,
+      "color": "Nude"
     },
     {
       "id": 11,
@@ -326,9 +326,9 @@
       "offer": "off 30%",
       "price": 129,
       "rating": "",
-      "color": "nude",
       "tax": "inclusive of all taxes",
-      "quantity": 1
+      "quantity": 1,
+      "color": "Nude"
     },
     {
       "id": 12,
@@ -356,9 +356,9 @@
       "offer": "off 30%",
       "price": 129,
       "rating": "1",
-      "color": "nude",
       "tax": "inclusive of all taxes",
-      "quantity": 1
+      "quantity": 1,
+      "color": "Nude"
     },
     {
       "id": 13,
@@ -386,9 +386,9 @@
       "offer": "off 30%",
       "price": 129,
       "rating": "",
-      "color": "Red",
       "tax": "inclusive of all taxes",
-      "quantity": 1
+      "quantity": 1,
+      "color": "Red"
     },
     {
       "id": 14,
@@ -416,9 +416,9 @@
       "offer": "off 30%",
       "price": 129,
       "rating": "3",
-      "color": "red",
       "tax": "inclusive of all taxes",
-      "quantity": 1
+      "quantity": 1,
+      "color": "Red"
     },
     {
       "id": 15,
@@ -446,9 +446,9 @@
       "offer": "off 30%",
       "price": 129,
       "rating": "",
-      "color": "red",
       "tax": "inclusive of all taxes",
-      "quantity": 1
+      "quantity": 1,
+      "color": "Red"
     },
     {
       "id": 16,
@@ -476,9 +476,9 @@
       "offer": "off 30%",
       "price": 129,
       "rating": "",
-      "color": "red",
       "tax": "inclusive of all taxes",
-      "quantity": 1
+      "quantity": 1,
+      "color": "Red"
     },
     {
       "id": 17,
@@ -506,9 +506,9 @@
       "offer": "off 30%",
       "price": 129,
       "rating": "",
-      "color": "blue",
       "tax": "inclusive of all taxes",
-      "quantity": 1
+      "quantity": 1,
+      "color": "Blue"
     },
     {
       "id": 18,
@@ -536,9 +536,9 @@
       "offer": "off 30%",
       "price": 129,
       "rating": "",
-      "color": "blue",
       "tax": "inclusive of all taxes",
-      "quantity": 1
+      "quantity": 1,
+      "color": "Blue"
     },
     {
       "id": 19,
@@ -566,9 +566,9 @@
       "offer": "off 30%",
       "price": 129,
       "rating": "",
-      "color": "blue",
       "tax": "inclusive of all taxes",
-      "quantity": 1
+      "quantity": 1,
+      "color": "Blue"
     },
     {
       "id": 20,
@@ -596,9 +596,9 @@
       "offer": "off 30%",
       "price": 129,
       "rating": "",
-      "color": "orange",
       "tax": "inclusive of all taxes",
-      "quantity": 1
+      "quantity": 1,
+      "color": "Orange"
     },
     {
       "id": 21,
@@ -626,9 +626,9 @@
       "offer": "off 30%",
       "price": 80,
       "rating": "2.5",
-      "color": "orange",
       "tax": "inclusive of all taxes",
-      "quantity": 1
+      "quantity": 1,
+      "color": "Orange"
     },
     {
       "id": 22,
@@ -656,9 +656,9 @@
       "offer": "off 30%",
       "price": 129,
       "rating": "5",
-      "color": "orange",
       "tax": "inclusive of all taxes",
-      "quantity": 1
+      "quantity": 1,
+      "color": "Orange"
     },
     {
       "id": 23,
@@ -686,9 +686,9 @@
       "offer": "off 30%",
       "price": 129,
       "rating": "0.5",
-      "color": " yellow",
       "tax": "inclusive of all taxes",
-      "quantity": 1
+      "quantity": 1,
+      "color": "Yellow"
     },
     {
       "id": 24,
@@ -716,9 +716,9 @@
       "offer": "off 30%",
       "price": 129,
       "rating": "",
-      "color": "green",
       "tax": "inclusive of all taxes",
-      "quantity": 1
+      "quantity": 1,
+      "color": "Green"
     },
     {
       "id": 25,
@@ -746,9 +746,9 @@
       "offer": "off 30%",
       "price": 129,
       "rating": "0.5",
-      "color": "white",
       "tax": "inclusive of all taxes",
-      "quantity": 1
+      "quantity": 1,
+      "color": "White"
     },
     {
       "id": 26,
@@ -776,9 +776,9 @@
       "offer": "off 30%",
       "price": 129,
       "rating": "2",
-      "color": "black",
       "tax": "inclusive of all taxes",
-      "quantity": 1
+      "quantity": 1,
+      "color": "Black"
     },
 
     {
@@ -809,7 +809,7 @@
       "rating": "5",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "pink"
+      "color": "Pink"
     },
     {
       "id": 28,
@@ -839,7 +839,7 @@
       "rating": "5",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "pink"
+      "color": "Pink"
     },
     {
       "id": 29,
@@ -869,7 +869,7 @@
       "rating": "5",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "pink"
+      "color": "Pink"
     },
     {
       "id": 30,
@@ -899,7 +899,7 @@
       "rating": "4",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "purple"
+      "color": "Purple"
     },
     {
       "id": 31,
@@ -929,7 +929,7 @@
       "rating": "4",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "purple"
+      "color": "Purple"
     },
     {
       "id": 32,
@@ -959,7 +959,7 @@
       "rating": "4",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "purple"
+      "color": "Purple"
     },
     {
       "id": 33,
@@ -989,7 +989,7 @@
       "rating": "4",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": " brown"
+      "color": "Brown"
     },
     {
       "id": 34,
@@ -1019,7 +1019,7 @@
       "rating": "4",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": " brown"
+      "color": "Brown"
     },
     {
       "id": 35,
@@ -1049,7 +1049,7 @@
       "rating": "4",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": " brown"
+      "color": "Brown"
     },
     {
       "id": 36,
@@ -1079,7 +1079,7 @@
       "rating": "5",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "nude"
+      "color": "Nude"
     },
     {
       "id": 37,
@@ -1109,7 +1109,7 @@
       "rating": "4",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "nude"
+      "color": "Nude"
     },
     {
       "id": 38,
@@ -1139,7 +1139,7 @@
       "rating": "5",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "nude"
+      "color": "Nude"
     },
     {
       "id": 39,
@@ -1169,7 +1169,7 @@
       "rating": "4",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "red"
+      "color": "Red"
     },
     {
       "id": 40,
@@ -1199,7 +1199,7 @@
       "rating": "4",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "red"
+      "color": "Red"
     },
     {
       "id": 41,
@@ -1229,7 +1229,7 @@
       "rating": "4",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "red"
+      "color": "Red"
     },
     {
       "id": 42,
@@ -1259,7 +1259,7 @@
       "rating": "5",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "blue"
+      "color": "Blue"
     },
     {
       "id": 43,
@@ -1289,7 +1289,7 @@
       "rating": "5",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "blue"
+      "color": "Blue"
     },
     {
       "id": 44,
@@ -1319,7 +1319,7 @@
       "rating": "4",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "blue"
+      "color": "Blue"
     },
     {
       "id": 45,
@@ -1349,7 +1349,7 @@
       "rating": "4",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "orange"
+      "color": "Orange"
     },
     {
       "id": 46,
@@ -1379,7 +1379,7 @@
       "rating": "4",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "orange"
+      "color": "Orange"
     },
     {
       "id": 47,
@@ -1409,7 +1409,7 @@
       "rating": "5",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": " yellow"
+      "color": "Yellow"
     },
     {
       "id": 48,
@@ -1439,7 +1439,7 @@
       "rating": "5",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": " yellow"
+      "color": "Yellow"
     },
     {
       "id": 49,
@@ -1469,7 +1469,7 @@
       "rating": "4",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": " yellow"
+      "color": "Yellow"
     },
     {
       "id": 50,
@@ -1499,7 +1499,7 @@
       "rating": "4",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "green"
+      "color": "Green"
     },
     {
       "id": 51,
@@ -1529,7 +1529,7 @@
       "rating": "5",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "white"
+      "color": "White"
     },
     {
       "id": 52,
@@ -1559,7 +1559,7 @@
       "rating": "5",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "black"
+      "color": "Black"
     },
     {
       "id": 53,
@@ -1589,7 +1589,7 @@
       "rating": "4",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "pink"
+      "color": "Pink"
     },
     {
       "id": 54,
@@ -1619,7 +1619,7 @@
       "rating": "4",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "pink"
+      "color": "Pink"
     },
     {
       "id": 55,
@@ -1649,7 +1649,7 @@
       "rating": "4",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "pink"
+      "color": "Pink"
     },
     {
       "id": 56,
@@ -1679,7 +1679,7 @@
       "rating": "4",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "purple"
+      "color": "Purple"
     },
     {
       "id": 57,
@@ -1709,7 +1709,7 @@
       "rating": "3",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "brown"
+      "color": "Brown"
     },
     {
       "id": 58,
@@ -1739,7 +1739,7 @@
       "rating": "4",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "brown"
+      "color": "Brown"
     },
     {
       "id": 59,
@@ -1769,7 +1769,7 @@
       "rating": "4",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": " nude"
+      "color": "Nude"
     },
     {
       "id": 60,
@@ -1799,7 +1799,7 @@
       "rating": "4",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": " red"
+      "color": "Red"
     },
     {
       "id": 61,
@@ -1829,7 +1829,7 @@
       "rating": "4",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": " red"
+      "color": "Red"
     },
     {
       "id": 62,
@@ -1859,7 +1859,7 @@
       "rating": "4",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": " blue"
+      "color": "Blue"
     },
     {
       "id": 63,
@@ -1889,7 +1889,7 @@
       "rating": "2",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "white"
+      "color": "White"
     },
     {
       "id": 64,
@@ -1919,7 +1919,7 @@
       "rating": "5",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "pink"
+      "color": "Pink"
     },
     {
       "id": 65,
@@ -1949,7 +1949,7 @@
       "rating": "5",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "pink"
+      "color": "Pink"
     },
     {
       "id": 66,
@@ -1979,7 +1979,7 @@
       "rating": "5",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "pink"
+      "color": "Pink"
     },
     {
       "id": 67,
@@ -2009,7 +2009,7 @@
       "rating": "5",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "purple"
+      "color": "Purple"
     },
     {
       "id": 68,
@@ -2039,7 +2039,7 @@
       "rating": "5",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "purple"
+      "color": "Purple"
     },
     {
       "id": 69,
@@ -2069,7 +2069,7 @@
       "rating": "3",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "purple"
+      "color": "Purple"
     },
     {
       "id": 70,
@@ -2099,7 +2099,7 @@
       "rating": "2",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "brown"
+      "color": "Brown"
     },
     {
       "id": 71,
@@ -2129,7 +2129,7 @@
       "rating": "3",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "brown"
+      "color": "Brown"
     },
     {
       "id": 72,
@@ -2159,7 +2159,7 @@
       "rating": "4",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "brown"
+      "color": "Brown"
     },
     {
       "id": 73,
@@ -2189,7 +2189,7 @@
       "rating": "1",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "red"
+      "color": "Red"
     },
     {
       "id": 74,
@@ -2219,7 +2219,7 @@
       "rating": "3",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "red"
+      "color": "Red"
     },
     {
       "id": 75,
@@ -2249,7 +2249,7 @@
       "rating": "5",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "red"
+      "color": "Red"
     },
     {
       "id": 76,
@@ -2279,7 +2279,7 @@
       "rating": "5",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "blue"
+      "color": "Blue"
     },
     {
       "id": 78,
@@ -2309,7 +2309,7 @@
       "rating": "4",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "blue"
+      "color": "Blue"
     },
     {
       "id": 79,
@@ -2339,7 +2339,7 @@
       "rating": "4",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": " green"
+      "color": "Green"
     },
     {
       "id": 80,
@@ -2369,7 +2369,7 @@
       "rating": "2",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": " green"
+      "color": "Green"
     },
     {
       "id": 81,
@@ -2399,7 +2399,7 @@
       "rating": "3",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": " green"
+      "color": "Green"
     },
     {
       "id": 82,
@@ -2429,7 +2429,7 @@
       "rating": "5",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": " yellow"
+      "color": "Yellow"
     },
     {
       "id": 83,
@@ -2452,7 +2452,7 @@
       "rating": "3",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "pink"
+      "color": "Pink"
     },
     {
       "id": 84,
@@ -2475,7 +2475,7 @@
       "rating": "4",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "blue"
+      "color": "Blue"
     },
     {
       "id": 85,
@@ -2505,7 +2505,7 @@
       "rating": "4",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "pink"
+      "color": "Pink"
     },
     {
       "id": 86,
@@ -2535,7 +2535,7 @@
       "rating": "3",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "pink"
+      "color": "Pink"
     },
     {
       "id": 87,
@@ -2565,7 +2565,7 @@
       "rating": "4",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "pink"
+      "color": "Pink"
     },
     {
       "id": 88,
@@ -2595,7 +2595,7 @@
       "rating": "3",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "pink"
+      "color": "Pink"
     },
     {
       "id": 89,
@@ -2625,7 +2625,7 @@
       "rating": "4",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "pink"
+      "color": "Pink"
     },
     {
       "id": 90,
@@ -2655,7 +2655,7 @@
       "rating": "",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "pink"
+      "color": "Pink"
     },
     {
       "id": 91,
@@ -2685,7 +2685,7 @@
       "rating": "4",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "purple"
+      "color": "Purple"
     },
     {
       "id": 92,
@@ -2715,7 +2715,7 @@
       "rating": "4",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "purple"
+      "color": "Purple"
     },
     {
       "id": 93,
@@ -2745,7 +2745,7 @@
       "rating": "1",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "purple"
+      "color": "Purple"
     },
     {
       "id": 94,
@@ -2775,7 +2775,7 @@
       "rating": "",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "purple"
+      "color": "Purple"
     },
     {
       "id": 95,
@@ -2802,7 +2802,7 @@
       "rating": "",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "brown"
+      "color": "Brown"
     },
     {
       "id": 96,
@@ -2832,7 +2832,7 @@
       "rating": "",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "brown"
+      "color": "Brown"
     },
     {
       "id": 97,
@@ -2862,7 +2862,7 @@
       "rating": "1",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "brown"
+      "color": "Brown"
     },
     {
       "id": 98,
@@ -2892,7 +2892,7 @@
       "rating": "1",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "red"
+      "color": "Red"
     },
     {
       "id": 99,
@@ -2922,7 +2922,7 @@
       "rating": "3",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "red"
+      "color": "Red"
     },
     {
       "id": 100,
@@ -2952,7 +2952,7 @@
       "rating": "",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "red"
+      "color": "Red"
     },
     {
       "id": 101,
@@ -2982,7 +2982,7 @@
       "rating": "",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "red"
+      "color": "Red"
     },
     {
       "id": 102,
@@ -3012,7 +3012,7 @@
       "rating": "3",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "blue"
+      "color": "Blue"
     },
     {
       "id": 103,
@@ -3042,7 +3042,7 @@
       "rating": "4",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "blue"
+      "color": "Blue"
     },
     {
       "id": 104,
@@ -3072,7 +3072,7 @@
       "rating": "1",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "blue"
+      "color": "Blue"
     },
     {
       "id": 105,
@@ -3102,7 +3102,7 @@
       "rating": "",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "blue"
+      "color": "Blue"
     },
     {
       "id": 106,
@@ -3132,7 +3132,7 @@
       "rating": "",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "orange"
+      "color": "Orange"
     },
     {
       "id": 107,
@@ -3162,7 +3162,7 @@
       "rating": "5",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": " yellow"
+      "color": "Yellow"
     },
     {
       "id": 108,
@@ -3192,7 +3192,7 @@
       "rating": "4",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "pink"
+      "color": "Pink"
     },
     {
       "id": 109,
@@ -3222,7 +3222,7 @@
       "rating": "3",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "pink"
+      "color": "Pink"
     },
     {
       "id": 110,
@@ -3252,7 +3252,7 @@
       "rating": "",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "pink"
+      "color": "Pink"
     },
     {
       "id": 111,
@@ -3282,7 +3282,7 @@
       "rating": "5",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "pink"
+      "color": "Pink"
     },
     {
       "id": 112,
@@ -3312,7 +3312,7 @@
       "rating": "",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "pink"
+      "color": "Pink"
     },
     {
       "id": 113,
@@ -3342,7 +3342,7 @@
       "rating": "5",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "purple"
+      "color": "Purple"
     },
     {
       "id": 114,
@@ -3372,7 +3372,7 @@
       "rating": "",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "red"
+      "color": "Red"
     },
     {
       "id": 115,
@@ -3402,7 +3402,7 @@
       "rating": "",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "red"
+      "color": "Red"
     },
     {
       "id": 116,
@@ -3432,7 +3432,7 @@
       "rating": "2",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "red"
+      "color": "Red"
     },
     {
       "id": 117,
@@ -3462,7 +3462,7 @@
       "rating": "3",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "blue"
+      "color": "Blue"
     },
     {
       "id": 118,
@@ -3492,7 +3492,7 @@
       "rating": "5",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "blue"
+      "color": "Blue"
     },
     {
       "id": 119,
@@ -3522,7 +3522,7 @@
       "rating": "1",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "pink"
+      "color": "Pink"
     },
     {
       "id": 120,
@@ -3552,7 +3552,7 @@
       "rating": "3",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "pink"
+      "color": "Pink"
     },
     {
       "id": 121,
@@ -3582,7 +3582,7 @@
       "rating": "5",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "pink"
+      "color": "Pink"
     },
     {
       "id": 122,
@@ -3612,7 +3612,7 @@
       "rating": "4",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "purple"
+      "color": "Purple"
     },
     {
       "id": 123,
@@ -3642,7 +3642,7 @@
       "rating": "2",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "brown"
+      "color": "Brown"
     },
     {
       "id": 124,
@@ -3672,7 +3672,7 @@
       "rating": "",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "brown"
+      "color": "Brown"
     },
     {
       "id": 125,
@@ -3702,7 +3702,7 @@
       "rating": "5",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "nude"
+      "color": "Nude"
     },
     {
       "id": 126,
@@ -3732,7 +3732,7 @@
       "rating": "5",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "nude"
+      "color": "Nude"
     },
     {
       "id": 127,
@@ -3762,7 +3762,7 @@
       "rating": "5",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "red"
+      "color": "Red"
     },
     {
       "id": 128,
@@ -3792,7 +3792,7 @@
       "rating": "5",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "red"
+      "color": "Red"
     },
     {
       "id": 129,
@@ -3822,7 +3822,7 @@
       "rating": "",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "blue"
+      "color": "Blue"
     },
     {
       "id": 130,
@@ -3852,7 +3852,7 @@
       "rating": "2",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "pink"
+      "color": "Pink"
     },
     {
       "id": 131,
@@ -3882,7 +3882,7 @@
       "rating": "",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "pink"
+      "color": "Pink"
     },
     {
       "id": 132,
@@ -3912,7 +3912,7 @@
       "rating": "3",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "pink"
+      "color": "Pink"
     },
     {
       "id": 133,
@@ -3942,7 +3942,7 @@
       "rating": "3",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "purple"
+      "color": "Purple"
     },
     {
       "id": 134,
@@ -3972,7 +3972,7 @@
       "rating": "5",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "purple"
+      "color": "Purple"
     },
     {
       "id": 135,
@@ -4002,7 +4002,7 @@
       "rating": "5",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "brown"
+      "color": "Brown"
     },
     {
       "id": 136,
@@ -4032,7 +4032,7 @@
       "rating": "",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "brown"
+      "color": "Brown"
     },
     {
       "id": 137,
@@ -4062,7 +4062,7 @@
       "rating": "",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "brown"
+      "color": "Brown"
     },
     {
       "id": 138,
@@ -4092,7 +4092,7 @@
       "rating": "5",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "nude"
+      "color": "Nude"
     },
     {
       "id": 139,
@@ -4122,7 +4122,7 @@
       "rating": "1",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "nude"
+      "color": "Nude"
     },
     {
       "id": 140,
@@ -4152,7 +4152,7 @@
       "rating": "",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "nude"
+      "color": "Nude"
     },
     {
       "id": 141,
@@ -4182,7 +4182,7 @@
       "rating": "1",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "red"
+      "color": "Red"
     },
     {
       "id": 142,
@@ -4212,7 +4212,7 @@
       "rating": "",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "red"
+      "color": "Red"
     },
     {
       "id": 143,
@@ -4242,7 +4242,7 @@
       "rating": "",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "red"
+      "color": "Red"
     },
     {
       "id": 144,
@@ -4272,7 +4272,7 @@
       "rating": "",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "blue"
+      "color": "Blue"
     },
     {
       "id": 145,
@@ -4302,7 +4302,7 @@
       "rating": "",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "blue"
+      "color": "Blue"
     },
     {
       "id": 146,
@@ -4332,7 +4332,7 @@
       "rating": "1",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "blue"
+      "color": "Blue"
     },
     {
       "id": 147,
@@ -4362,7 +4362,7 @@
       "rating": "4",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": " yellow"
+      "color": "Yellow"
     },
     {
       "id": 148,
@@ -4392,7 +4392,7 @@
       "rating": "",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": " yellow"
+      "color": "Yellow"
     },
     {
       "id": 149,
@@ -4422,7 +4422,7 @@
       "rating": "5",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": " green"
+      "color": "Green"
     },
     {
       "id": 150,
@@ -4452,7 +4452,7 @@
       "rating": "5",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "black"
+      "color": "Black"
     },
     {
       "id": 151,
@@ -4482,7 +4482,7 @@
       "rating": "5",
       "tax": "inclusive of all taxes",
       "quantity": 1,
-      "color": "black"
+      "color": "Black"
     },
 
     {
@@ -8972,6 +8972,39 @@
       "rating": "5",
       "tax": "inclusive of all taxes",
       "quantity": 1
+    }
+  ],
+
+  "filter": [
+    {
+      "id": "color",
+      "name": "color",
+      "option": [
+        { "value": "Pink", "label": "Pink" },
+        { "value": "Purple", "label": "Purple" },
+        { "value": "Brown", "label": "Brown" },
+        { "value": "Nude", "label": "Nude" },
+        { "value": "Red", "label": "Red" },
+        { "value": "Blue", "label": "Blue" },
+        { "value": "Orange", "label": "Orange" },
+        { "value": "Yellow", "label": "Yellow" },
+        { "value": "Green", "label": "Green" },
+        { "value": "White", "label": "White" },
+        { "value": "Black", "label": "Black" }
+      ]
+    },
+
+    {
+      "id": "category",
+      "name": "category",
+      "option": [
+        { "value": "Brand", "label": "Brand" },
+        { "value": "Stickers", "label": "Stickers" },
+        { "value": "Toolkit", "label": "Toolkit" },
+        { "value": "Jwellery", "label": "Jwellery" },
+        { "value": "ArtKit", "label": "ArtKit" },
+        { "value": "NewIn", "label": "NewIn" }
+      ]
     }
   ]
 }
